@@ -1,22 +1,62 @@
-<h1 align="center">Hi 👋, I'm Fatih Selim Baytar</h1>
-<h3 align="center">I am studying Computer Science at Istanbul University and studying in the Data and AI Department.​👨‍💻​</h3>
+# 👋 Hi, I'm Fatih Selim Baytar
 
-- 🔭 I’m currently working on **Data Club, Computer Science Career Club in İstanbul University Club and**
+🎓 Computer Science Student  
+💻 Aspiring Machine Learning / AI Engineer  
+📍 İstanbul Universty 
 
-- 🌱 I’m currently learning **Artificial Intelligence and Data**
+---
 
-- 👯 I’m looking to collaborate on **Open source Python projects related to data analysis.**
+## 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Understanding complex Data Structures and Algorithms and Optimizing Machine Learning pipelines for real-world data.**
+I am a Computer Science student focusing on **Machine Learning and Artificial Intelligence**.  
+I am especially interested in **data-driven models**, **real-world problem solving**, and  
+**building applied AI systems that can be used in production environments**.
 
-- 📫 How to reach me **fatihselimbaytarr@gmail.com**
+Currently, I am:
+- Learning Python for data analysis and machine learning  
+- Working with real-world datasets  
+- Studying machine learning algorithms from first principles  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatihselimbaytar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihselimbaytar" height="30" width="40" /></a>
-<a href="https://instagram.com/fth.baytar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fth.baytar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fatihselimbaytar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatihselimbaytar" height="30" width="40" /></a>
-</p>
+My long-term goal is:
+> **To become a Machine Learning Engineer who builds reliable, production-ready AI systems.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Stack
+
+- **Programming Languages:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn (learning)  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+> *(This stack will grow as I continue learning.)*
+
+---
+
+
+## 📚 What I'm Currently Learning
+
+- Python for Data Science  
+- Linear Algebra & Probability for Machine Learning  
+- Data Cleaning & Exploratory Data Analysis (EDA)  
+- Machine Learning Fundamentals  
+
+---
+
+## 📈 Future Focus
+
+- Building end-to-end ML projects  
+- Model evaluation and optimization  
+- Applying ML models to real-world problems  
+
+---
+
+## 📫 Contact
+
+- LinkedIn:  www.linkedin.com/in/fatihselimbaytar
+- Email: fatihselimbaytarr@gmail.com 
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
